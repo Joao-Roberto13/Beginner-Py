@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Cybersecurity in my Country.
 - 📫 You can reach me by email or WatsApp jringuane23@gmail.com/+258843993113.
+- 🥅 My goal is to create an artificial intelligence. Able to give suggestions, make jokes, start conversations and more things....
 
 <!---
 Joao-Roberto13/Joao-Roberto13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
